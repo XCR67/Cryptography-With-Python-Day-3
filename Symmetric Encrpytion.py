@@ -1,4 +1,4 @@
-#DAY 3 - SYMMETRIC ENCRPTION
+#Symmetric Encryption
 #Dependencies
 import random
 import string
